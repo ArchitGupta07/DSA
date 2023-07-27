@@ -1,1 +1,3 @@
-axasxaxaxaa
+xor = 0^1^2^3^4^5^4^3^8^9^9^8^5^2
+
+print(xor)
