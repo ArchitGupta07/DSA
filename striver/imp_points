@@ -2,3 +2,9 @@ Array Questions:
 
 https://leetcode.com/problems/single-number/solutions/1771771/think-it-through-time-o-n-space-o-1-python-explained/    :--  TRY XOR BIT METHOD
 
+
+1)  ordered Map take logn time to take elements in itself , in case of unordered map the logn reduces to 1 but only for average and the best case but for worst case it will go upto big-oh of n.   check this video at 6:00 :--- https://www.youtube.com/watch?time_continue=369&v=nP_ns3uSh80&embeds_referring_euri=https%3A%2F%2Ftakeuforward.org%2F
+
+
+2) 
+
